@@ -7,6 +7,5 @@ duckduckgo-search==4.2.0
 langchain==0.1.7
 langchain-community==0.0.20
 newspaper3k==0.2.8
-lxml_html_clean==0.1.0
-lxml==4.9.4
+lxml==5.2.2
 nltk==3.8.1 
